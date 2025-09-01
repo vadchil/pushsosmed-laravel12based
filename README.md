@@ -18,8 +18,11 @@ Sebuah aplikasi web berbasis Laravel untuk **meningkatkan engagement sosial medi
 ---
 
 ## Screenshoot
-![Landing Page](screenshoot/dashboard.png)
+<div style="display: flex; gap: 10px;">
+  <img src="screenshoot/landing-page.png" alt="Landing Page" width="400"/>
+  <img src="screenshoot/login.png" alt="Login" width="400"/>
+</div>
 
-![Login Page](screenshoot/dashboard.png)
-
-![Dashboard](screenshoot/dashboard.png)
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+  <img src="screenshoot/dashboard.png" alt="Dashboard" width="400"/>
+</div>
