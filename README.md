@@ -13,7 +13,13 @@ Sebuah aplikasi web berbasis Laravel untuk **meningkatkan engagement sosial medi
 - [x] Live validation dengan Livewire
 - [x] Tailwind CSS for styling
 - [ ] Email validation (coming soon)
+- [x] Landing page
 
 ---
 
 ## Screenshoot
+![Landing Page](screenshoot/dashboard.png)
+
+![Login Page](screenshoot/dashboard.png)
+
+![Dashboard](screenshoot/dashboard.png)
